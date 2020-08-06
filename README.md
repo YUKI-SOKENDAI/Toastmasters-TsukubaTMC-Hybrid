@@ -1,4 +1,4 @@
-# Toastmasters(Tsukubab TMC) for Hybrid meeting
+# Toastmasters:TsukubabTMC for Hybrid meeting
 
 ## Descriotion
 
