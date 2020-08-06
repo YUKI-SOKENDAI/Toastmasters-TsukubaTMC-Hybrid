@@ -65,7 +65,7 @@ zoomアプリ版は64bitシステムのみで動作する。32bitのシステム
 Hybrid meeting
 
 ## Author
-* Yuki Abe(abeyuki@post.kek.jp), [SOKENDAI](https://www2.kek.jp/accl/sokendai/) 
+* Yuki Abe, [SOKENDAI](https://www2.kek.jp/accl/sokendai/) 
 
 ## Licence
 MIT()
