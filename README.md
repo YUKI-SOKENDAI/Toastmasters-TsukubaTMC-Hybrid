@@ -1,26 +1,29 @@
-# repositoryTEMP
-It is template repository for me.
+# Toastmasters(Tsukubab TMC) for Hybrid meeting
 
 ## Descriotion
 
 *** DEMO ***
 
 ## Features
-- Uri
+- 
 - function
 - UI
 
 ## Requirement
-- Windows10 or WSL with Ubuntu-18.04
-- python3.6
--- numpy
--- matplotlib
+- computer: laptop or smartphone/tablet or raspberry pi (64bit system)
+-- laptop (Ubuntu **-**)
+-- tablet (Ubuntu **-**)
+-- raspberry pi4 (Debian )
+- WEB camera
+- micro phone
+- steleo
 
 ## Installation
 - Cloning this repository to your device.
   ```
   $ git clone ***
   ```
+  
 ### Windows10
 - Install python3.6
   <br>[Python3.6.8-amd64-webinstall](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64-webinstall.exe)
@@ -30,6 +33,7 @@ It is template repository for me.
   $ python -m pip install numpy
   $ python -m pip install matplotlib  
   ```
+
 ### Linux
 - Install python3.6
   <br>[Install reference](https://shimi-dai.com/install-python3-on-linux/)
@@ -43,9 +47,22 @@ It is template repository for me.
   $ python -m pip install matplotlib  
   ```
 
+### ラズパイ
+- Install ZOOM
+
+```
+$ wget hoge-url
+$ tar -zxvf file-name
+```
+
 ## Usage
 
 ## Note
+- ZOOMとOSバージョン
+zoomアプリ版は64bitシステムのみで動作する。32bitのシステムの場合、ブラウザ版の使用になってしまう。<br>
+ラズパイ4の64bit版OSでZOOMの使用を試してみた。[別記事]()にもまとめている。
+- Hybrid meeting実験
+Hybrid meeting
 
 ## Author
 * Yuki Abe(abeyuki@post.kek.jp), [SOKENDAI](https://www2.kek.jp/accl/sokendai/) 
